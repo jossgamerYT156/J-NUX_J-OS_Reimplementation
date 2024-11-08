@@ -109,7 +109,7 @@ void display_prompt()
 int callapi(const char *action, const char *function, const char *state) {
     // Determine the color based on the state
     const char *color;
-    if (strcmp(state, "NORMAL") == 0) {
+    if (strcmp(state, "RCLR") == 0) {
         color = NORMAL;  // Use your color macro to set the desired color
     } else if (strcmp(state, "WARN") == 0) {
         color = WARN;
