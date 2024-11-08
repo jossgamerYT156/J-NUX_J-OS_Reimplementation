@@ -6,6 +6,9 @@
 JSH commands are mostly prefixed and can't be customized without editing the source code directly(because lilly doesn't know how to open dotfiles yet.)
 so `OSINFO`, `dev` and `hlp` are UNCHANGABLE commands who are hardcoded on the JSH source.
 
+
+![alt JSH Demo 0.0.1b](https://github.com/jossgamerYT156/J-NUX_J-OS_Reimplementation/blob/main/J-OS/IMG/Demo/Screenshot%20from%202024-11-07%2019-01-11.png)
+
 ## OSINFO Usage:
 Type `OSINFO` on the terminal, it'll show you what's the OS name of J-OS!
 As well it'll show you the LFS version of which J-NUX is running!.
